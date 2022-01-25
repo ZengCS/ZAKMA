@@ -1,0 +1,4 @@
+rootProject.name='ZAKMA'
+include ':app'
+include ':mocule_base'
+include ':module_http'
